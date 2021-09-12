@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\bin\Debug\Excel-A-Datagrid.exe.config
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\bin\Debug\Excel-A-Datagrid.exe
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\bin\Debug\Excel-A-Datagrid.pdb
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel-A-Datagrid.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel_A_Datagrid.Form1.resources
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel_A_Datagrid.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel-A-Datagrid.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel-A-Datagrid.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel-A-Datagrid.exe
+C:\Users\Lenovo\source\repos\Excel-A-Datagrid\Excel-A-Datagrid\obj\Debug\Excel-A-Datagrid.pdb
